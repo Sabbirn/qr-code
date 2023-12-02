@@ -1,2 +1,2 @@
 # qr-code
-https://sabbirn.github.io/qr-code/
+Live:- https://sabbirn.github.io/qr-code/
